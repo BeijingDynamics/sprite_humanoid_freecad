@@ -1,5 +1,7 @@
 # Sprite Humanoid FreeCAD
 
+![Sprite humanoid FreeCAD assembly](sprite_photo.png)
+
 FreeCAD source files for the Sprite humanoid hardware structure.
 
 The files in this repository are released as hardware design source under the
